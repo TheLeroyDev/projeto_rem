@@ -1,6 +1,7 @@
-$(document).ready(function() {
-    var botao = $('.botao');
-    var dropDown = $('.familia');    
+$(document).ready(function() 
+{
+    var botao = $('.bt');
+    var dropDown = $('.fml');    
    
        botao.on('click', function(event){
            dropDown.stop(true,true).slideToggle();
