@@ -203,3 +203,11 @@ footer {
 .char5 {
     padding-left: 550px;
 }
+
+.quadrado {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-image: url('imagens/rem.jpeg');
+    width: 300px;
+    height: 300px;
+}
